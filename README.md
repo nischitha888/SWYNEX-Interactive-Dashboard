@@ -23,7 +23,7 @@ The dashboard provides a structured view of workforce information, making key HR
 
 ## 🖼️ Dashboard Preview
 
-![HR Workforce Analytics Dashboard](HR-Dashboard.png)
+![HR Workforce Analytics Dashboard](HR-Dashboard.png.png)
 
 *Interactive HR dashboard developed using Microsoft Excel.*
 
