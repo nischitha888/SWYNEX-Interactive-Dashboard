@@ -29,7 +29,7 @@ The dashboard provides a structured view of workforce information, making key HR
 
 **Dashboard highlights:** KPI summaries, salary analysis, leave analysis, skills breakdown, and interactive filters.
 
-*Note: Upload your dashboard screenshot to the repository using the filename `HR-Dashboard.png` for the preview to display correctly.*
+
 
 ## 🛠️ Tools & Technologies
 
